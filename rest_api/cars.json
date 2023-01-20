@@ -1,0 +1,54 @@
+{
+    "1": {
+        "id": 1,
+        "manufacturer": "LADA",
+        "model": "Vesta",
+        "price": 800000,
+        "package": "ultraluxe",
+        "drive": "FWD",
+        "hp": 110,
+        "torque": 170,
+        "color": "grey",
+        "max_wheel_radius": 16,
+        "chasis_type": "sedan"
+    },
+    "2": {
+        "id": 2,
+        "manufacturer": "LADA",
+        "model": "Vesta",
+        "price": 800000,
+        "package": "ultraluxe",
+        "drive": "FWD",
+        "hp": 110,
+        "torque": 170,
+        "color": "grey",
+        "max_wheel_radius": 16,
+        "chasis_type": "sedan"
+    },
+    "3": {
+        "id": 3,
+        "manufacturer": "LADA",
+        "model": "Vesta",
+        "price": 800000,
+        "package": "ultraluxe",
+        "drive": "FWD",
+        "hp": 110,
+        "torque": 170,
+        "color": "grey",
+        "max_wheel_radius": 16,
+        "chasis_type": "sedan"
+    },
+    "5": {
+        "id": 5,
+        "manufacturer": "LADA",
+        "model": "Vesta Super",
+        "price": 80000,
+        "package": "ultraluxe",
+        "drive": "FWD",
+        "hp": 110,
+        "torque": 170,
+        "color": "grey",
+        "max_wheel_radius": 16,
+        "chasis_type": "universal"
+    }
+}

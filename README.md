@@ -7,7 +7,7 @@ HTTP Style as REST API
 ## Requirements
 * Python
 * Poetry
-* Make
+* Flask
 
 ## Install
 
